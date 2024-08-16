@@ -1,0 +1,4 @@
+github.com/nikoksr/notify v1.0.0 h1:qe9/6FRsWdxBgQgWcpvQ0sv8LRGJZDpRB4TkL2uNdO8=
+github.com/nikoksr/notify v1.0.0/go.mod h1:hPaaDt30d6LAA7/5nb0e48Bp/MctDfycCSs8VEgN29I=
+golang.org/x/sync v0.8.0 h1:3NFvSEYkUoMifnESzZl15y791HH1qU2xm6eCJU5ZPXQ=
+golang.org/x/sync v0.8.0/go.mod h1:Czt+wKu1gCyEFDUtn0jG5QVvpJ6rzVqr5aXyt9drQfk=
